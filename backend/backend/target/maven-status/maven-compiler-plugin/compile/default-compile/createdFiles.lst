@@ -1,0 +1,5 @@
+com\nikki\backend\BackendApplication.class
+com\nikki\backend\controller\UserController.class
+com\nikki\backend\service\UserService.class
+com\nikki\backend\mapper\UserMapper.class
+com\nikki\backend\entity\User.class
